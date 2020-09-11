@@ -44,7 +44,7 @@
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.2.3",
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "babel-preset-env": "^1.7.0",
     "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
